@@ -1,7 +1,7 @@
-# Sales Performance Dashboard for EmporiUmn Bookstore NorthEast Region.
+# Sales Performance Dashboard for EmporiUm Bookstore NorthEast Region.
 
 ## Overview
-EmporiUmn is a online and  instore bookstore that sells products such as book and tech items.
+EmporiUm is a online and  instore bookstore that sells products such as book and tech items.
 I am analyzing sales for the NorthEast region from 2022-2025 for states Maryland, Main, New Jersey, and Massachusetts.
 
 ## Data Source
