@@ -21,7 +21,7 @@ I am analyzing sales for the NorthEast region from 2022-2025 for states Maryland
 * ELT (extract-load-transform)
 * Power Query
 * Dax Calculations for measures
-* ER Diagram
+* Data model
 * Insights and Recommendations
 * Interactive Visualizations
   
